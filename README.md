@@ -25,3 +25,19 @@ The dataset comes from Broward County, Florida and was obtained from ProPublica'
 | `warnings` | Suppressing non-critical warnings |
 
 
+## Instructions for Reproducing the Results
+
+### Option 1: Google Colab (Recommended)
+
+1. Go to [https://colab.research.google.com](https://colab.research.google.com)
+2. Click **File → New Notebook**
+3. Copy and paste each cell from the provided `.ipynb` file into separate Colab cells in order
+4. Click **Runtime → Run All**
+5. No additional setup is required — all libraries are pre-installed in Colab and the dataset is loaded directly from the internet
+
+### Option 2: Run Locally
+
+1. **Clone this repository:**
+   ```bash
+   git clone <your-repo-url>
+   cd <your-repo-folder>
