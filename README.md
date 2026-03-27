@@ -1,5 +1,3 @@
-# Individual_Homework_1
-
 # COMPAS Recidivism Risk Score Analysis
 
 ## Purpose of the Analysis
@@ -18,55 +16,13 @@ The dataset comes from Broward County, Florida and was obtained from ProPublica'
 
 ## Python Libraries Used
 
-|
- Library 
-|
- Version 
-|
- Purpose 
-|
-|
----
-|
----
-|
----
-|
-|
-`pandas`
-|
- ≥ 1.5 
-|
- Data loading, filtering, and manipulation 
-|
-|
-`numpy`
-|
- ≥ 1.23 
-|
- Numerical computations and array operations 
-|
-|
-`matplotlib`
-|
- ≥ 3.6 
-|
- Bar chart visualizations of decile score distributions 
-|
-|
-`statsmodels`
-|
- ≥ 0.13 
-|
- Logistic regression modeling to detect racial bias 
-|
-|
-`warnings`
-|
- (stdlib) 
-|
- Suppressing non-critical warnings 
-|
+| Library | Version |
+|---|---|
+| `pandas` | Data loading, filtering, and manipulation |
+| `numpy` | Numerical computations and array operations |
+| `matplotlib` | Bar chart visualizations of decile score distributions |
+| `statsmodels` | Logistic regression modeling to detect racial bias |
+| `warnings` | Suppressing non-critical warnings |
 
 Install all required libraries with:
 
