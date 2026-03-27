@@ -18,7 +18,7 @@ The dataset comes from Broward County, Florida and was obtained from ProPublica'
 
 ## Python Libraries Used
 
-| Library | Version | Purpose |
+| Library | Version |
 |---|---|---|
 | `pandas` | Data loading, filtering, and manipulation |
 | `numpy` | Numerical computations and array operations |
